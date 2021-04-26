@@ -67,7 +67,7 @@
 
 15. === is strict equality comparison, which returns false for the values which are not of a similar type. == is cimparison operator, which transforms the operands having the smae type before comaprison.
 
-17. The result will be [2,4,6].
+17 The result will be [2,4,6].
     
     1. The modifyArray has two para one is array and callback is a function
     2. create a new array
@@ -77,7 +77,7 @@
     6. repeat step 4 and 5 3 time
     7. return the new array.
 
-19. 1
+19 1
      
     4 
     
