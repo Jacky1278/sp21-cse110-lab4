@@ -1,5 +1,5 @@
 1. The bug is that when the add num1 and num2 we add as a string not integer and then store the combination of the two string in to result.
-2. To fix the problem, I nuse string to number conversion to convert num1 and num2 from string to integer type (e.g x = Number(x)).
+2. To fix the problem, I use string to number conversion to convert num1 and num2 from string to integer type (e.g x = Number(x)).
 3. citylost
 4. part2.js
 5. 11.7MB
